@@ -1,0 +1,14 @@
+C:\Assignments\Dot-Net Projects\ShoppingDiscountDesign\ShoppingDiscountDesign\bin\Debug\net8.0\ShoppingDiscountDesign.exe
+C:\Assignments\Dot-Net Projects\ShoppingDiscountDesign\ShoppingDiscountDesign\bin\Debug\net8.0\ShoppingDiscountDesign.deps.json
+C:\Assignments\Dot-Net Projects\ShoppingDiscountDesign\ShoppingDiscountDesign\bin\Debug\net8.0\ShoppingDiscountDesign.runtimeconfig.json
+C:\Assignments\Dot-Net Projects\ShoppingDiscountDesign\ShoppingDiscountDesign\bin\Debug\net8.0\ShoppingDiscountDesign.dll
+C:\Assignments\Dot-Net Projects\ShoppingDiscountDesign\ShoppingDiscountDesign\bin\Debug\net8.0\ShoppingDiscountDesign.pdb
+C:\Assignments\Dot-Net Projects\ShoppingDiscountDesign\ShoppingDiscountDesign\obj\Debug\net8.0\ShoppingDiscountDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignments\Dot-Net Projects\ShoppingDiscountDesign\ShoppingDiscountDesign\obj\Debug\net8.0\ShoppingDiscountDesign.AssemblyInfoInputs.cache
+C:\Assignments\Dot-Net Projects\ShoppingDiscountDesign\ShoppingDiscountDesign\obj\Debug\net8.0\ShoppingDiscountDesign.AssemblyInfo.cs
+C:\Assignments\Dot-Net Projects\ShoppingDiscountDesign\ShoppingDiscountDesign\obj\Debug\net8.0\ShoppingDiscountDesign.csproj.CoreCompileInputs.cache
+C:\Assignments\Dot-Net Projects\ShoppingDiscountDesign\ShoppingDiscountDesign\obj\Debug\net8.0\ShoppingDiscountDesign.dll
+C:\Assignments\Dot-Net Projects\ShoppingDiscountDesign\ShoppingDiscountDesign\obj\Debug\net8.0\refint\ShoppingDiscountDesign.dll
+C:\Assignments\Dot-Net Projects\ShoppingDiscountDesign\ShoppingDiscountDesign\obj\Debug\net8.0\ShoppingDiscountDesign.pdb
+C:\Assignments\Dot-Net Projects\ShoppingDiscountDesign\ShoppingDiscountDesign\obj\Debug\net8.0\ShoppingDiscountDesign.genruntimeconfig.cache
+C:\Assignments\Dot-Net Projects\ShoppingDiscountDesign\ShoppingDiscountDesign\obj\Debug\net8.0\ref\ShoppingDiscountDesign.dll
